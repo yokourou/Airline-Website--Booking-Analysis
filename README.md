@@ -19,7 +19,8 @@ The goals of this project are as follows:
 
 ### Project Status
 
-:warning: **Note:** Here i provided just the data analysis aspect not the website code source !
+:warning: **Note:** Here i provided just the data analysis aspect not the website code source ! And the project is not complete yet
+
 
 
 
